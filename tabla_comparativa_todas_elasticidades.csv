@@ -1,0 +1,5 @@
+"Variable","Factor","ECM_LP","VECM_LP","ECM_CP","VAR_Diff_CP"
+"Importaciones","PIB Argentina",0.9044,0.796,1.0096,"N/A"
+"Importaciones","TCR",0.1188,-0.056,0.0537,"N/A"
+"Exportaciones","PIB Socios",-1.5481,7.0718,0.2278,"N/A"
+"Exportaciones","TCR",-1.247,-1.0834,-0.3329,"N/A"

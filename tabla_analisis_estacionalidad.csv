@@ -1,0 +1,6 @@
+"Variable","Fuerza_Estacional","Clasificacion","Kruskal_pvalor","ANOVA_pvalor","Significativa"
+"Exportaciones",0.539,"ALTA",0.9251,0.9642,"NO"
+"Importaciones",0.611,"ALTA",0.9666,0.9662,"NO"
+"PIB Argentina",0.651,"ALTA",0.9835,0.9723,"NO"
+"PIB Socios",0.936,"ALTA",0.107,0.443,"NO"
+"TCR Multilateral",0.079,"BAJA",0.9665,0.9672,"NO"
