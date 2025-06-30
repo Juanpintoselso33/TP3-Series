@@ -1,0 +1,5 @@
+"Variable","Factor","ECM_Largo_Plazo","ECM_Corto_Plazo","VECM_Largo_Plazo","VAR_Diferencias"
+"Importaciones","PIB Argentina",0.9044,1.0096,0.796,-0.513
+"Importaciones","TCR",0.1188,0.0537,-0.056,-0.0876
+"Exportaciones","PIB Socios",1.4252,0.2238,7.0718,-1.2256
+"Exportaciones","TCR",-0.1738,-0.292,-1.0834,-0.0769
