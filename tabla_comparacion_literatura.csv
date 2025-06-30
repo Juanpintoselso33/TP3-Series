@@ -1,0 +1,6 @@
+"Estudio","Período","PIB_Importaciones","TCR_Importaciones","PIB_Exportaciones","TCR_Exportaciones","Metodología"
+"Berrettoni & Castresana (2008)","1993-2008","2.76 ± 0.07","-0.34 ± 0.07","1.84 ± 0.08","0.30 ± 0.09","MCE"
+"Bus & Nicolini-Llosa (2007)","1970-2007","2.94","-0.33","N/D","N/D","MCE + VECM"
+"Zack & Dalle (2016)","1996-2013","1.72 ± 0.07","-0.30 ± 0.05","0.85 ± 0.05","0.07 ± 0.03","MCE"
+"Fares et al. (2020)","1996-2016","2.4-2.6","N/D","2.2-2.4","N/D","Índices/VAR"
+"NUESTRO ESTUDIO (2024)","2004-2024","1.00 ± 0.05","-0.12 ± 0.04","1.43 ± 0.06","-0.17 ± 0.05","MCE + VECM + Wickens-Breusch"
